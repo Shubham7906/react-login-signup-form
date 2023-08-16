@@ -1,3 +1,9 @@
+# Preview
+
+![l1](https://github.com/Shubham7906/react-login-signup-form/assets/76210714/380752d1-05f1-4434-9597-6292c75bb58c)
+![l2](https://github.com/Shubham7906/react-login-signup-form/assets/76210714/06b935bc-0453-4530-8a7f-ce3d329cef9e)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
